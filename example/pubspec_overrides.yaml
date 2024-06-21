@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: easy_web_view
+dependency_overrides:
+  easy_web_view:
+    path: ..
